@@ -1,3 +1,5 @@
+# Stack
+
 é um estrutra de dados que segue o **LIFO (Last In, First Out)**
 
 > O ultimo elemento que entra é o primeiro a sair
