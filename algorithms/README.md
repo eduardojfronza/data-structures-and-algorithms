@@ -25,6 +25,10 @@ Estudos e implementações de **listas, pilhas, filas, hashmaps** e outras estru
 - [Linked List](./data_structures/linked_list/)
 - [Queues](./data_structures/queues/)
 - [Hashmap](./data_structures/hasmap/)
+- [Stack](./data_structures/stack/)
+- [Binary Tree](./data_structures/binary_tree/)
+- [Grafos](./data_structures/grafos/)
+- [Trie](./data_structures/trie/)
 
 ---
 
