@@ -22,13 +22,13 @@ Algoritmos de busca, incluindo **Linear Search e Binary Search**, explicando run
 
 Estudos e implementações de **listas, pilhas, filas, hashmaps** e outras estruturas de dados fundamentais, com exemplos de uso.
 
-- [Linked List](../data_structures/linked_list/)
-- [Queues](../data_structures/queues/)
-- [Hashmap](../data_structures/hasmap/)
-- [Stack](../data_structures/stack/)
-- [Binary Tree](../data_structures/binary_tree/)
-- [Grafos](../data_structures/grafos/)
-- [Trie](../data_structures/trie/)
+- [Linked List](./linked_list/README.md)
+- [Queues](./queues/README.md)
+- [Hashmap](./hasmap/README.md)
+- [Stack](./stack/README.md)
+- [Binary Tree](./binary_tree/README.md)
+- [Grafos](./grafos/README.md)
+- [Trie](./trie/README.md)
 
 ---
 
