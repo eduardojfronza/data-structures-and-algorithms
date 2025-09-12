@@ -51,7 +51,7 @@ data-structures-and-algorithms/
 - **[Binary Search](./algorithms/binary_search/README.md)**  
    Explicação do padrão "busca binaria" e exercícios práticos.
 
-- **Data Structures**  
+- **[Data Structures](./data_structures/README.md)**  
    Explicações de listas, pilhas, filas, árvores, grafos, etc...
   - **[Linked List](../data_structures/linked_list/)**
   - **[Queues](../data_structures/queues/)**
