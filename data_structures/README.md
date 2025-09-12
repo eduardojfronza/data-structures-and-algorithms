@@ -1,6 +1,4 @@
-# Algorithms
-
-Este diretório contém estudos e implementações de algoritmos e estruturas de dados. O objetivo é servir como referência de conceitos, análise de complexidade e exemplos práticos em código.
+Este diretório contém estudos e implementações de estruturas de dados. O objetivo é servir como referência de conceitos, análise de complexidade e exemplos práticos em código.
 
 ## Conteúdo
 
