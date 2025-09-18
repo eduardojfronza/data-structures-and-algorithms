@@ -12,6 +12,9 @@ data-structures-and-algorithms/
 │   |
 │   ├── two_pointers/           # Padrão de resolução com dois ponteiros
 │   │   └── exercises/          # Exercícios práticos de Two Pointers
+│   │       └── 000/
+│   │         └── index.ts      # Resolução
+│   │         └── README.md     # Explicação de como resolver
 │   └── ...                     # Outros algoritmos
 │
 │
@@ -23,14 +26,8 @@ data-structures-and-algorithms/
 │   │   └── README.md
 │   └── ...
 │
-├── leetcode                  # Problemas de leetcode resolvidos
-│   |
-│   ├── typescript/             # Linguagem que foi resolvido
-│   │   └── 704.ts              # Número do problema
-│   └── ...
 │
-│
-├── beecrowd                  # Problemas de leetcode resolvidos
+├── beecrowd                  # Problemas antigos de beecrowd resolvidos
 │   |
 │   ├── python/                 # Linguagem que foi resolvido
 │   │   └── 1001.py             # Número do problema
